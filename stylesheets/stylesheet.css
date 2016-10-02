@@ -48,11 +48,11 @@ a {
 
 @media screen and (min-width: 768px) and (max-width: 980px) {
   .project-name {
-    font-size: 85px; } }
+    font-size: 75px; } }
 
 @media screen and (max-width: 767px) {
   .project-name {
-    font-size: 60px; } }
+    font-size: 50px; } }
 
 .project-tagline {
   margin-bottom: 2rem;
