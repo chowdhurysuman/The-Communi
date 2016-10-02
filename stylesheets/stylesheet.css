@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: 'Libre Baskerville', serif;
   font-size: 16px; 
-  line-height: 1.5;
+  line-height: 2;
   color: #606c71; }
 
 
@@ -96,11 +96,11 @@ a {
 }
 
 .social i {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     color: #FFF;
     background-color: #909AA0;
-    font-size: 22px;
+    font-size: 40px;
     text-align:center;
     padding: 20px;
     border-radius: 5%;
