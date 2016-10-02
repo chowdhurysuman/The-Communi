@@ -24,20 +24,18 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 60px; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 50px; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 2rem 1rem; } }
+    padding: 40px; } }
 
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-  font-size: 400%;
+  margin: 50px;
   text-align: center;
   color: black;
 }
@@ -52,7 +50,7 @@ a {
 
 @media screen and (max-width: 767px) {
   .project-name {
-    font-size: 50px; } }
+    font-size: 0px; } }
 
 .project-tagline {
   margin-bottom: 2rem;
