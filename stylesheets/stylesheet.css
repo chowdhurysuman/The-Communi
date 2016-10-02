@@ -49,7 +49,7 @@ a {
 
 @media screen and (max-width: 767px) {
   .project-name {
-    font-size: 0px; } }
+    font-size: 40px; } }
 
 .project-tagline {
   margin-bottom: 2rem;
